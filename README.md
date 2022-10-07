@@ -3,7 +3,7 @@
 ## Te raden woord
 
 |.|.|.|.|.|
-|S|P|-|K|E|
+|S|P|I|K|E|
 |1|2|3|4|5|
 
 ## Score
@@ -11,3 +11,4 @@
 
 ## Beurten
 req1: I
+res1: gefeliciteerd lol
