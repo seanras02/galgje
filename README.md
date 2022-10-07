@@ -10,5 +10,4 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-req1: A
-res1: nee
+req1: R
