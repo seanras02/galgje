@@ -10,5 +10,4 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-req1: R
-res1: no, valorant
+req1: K
