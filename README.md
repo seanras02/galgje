@@ -11,3 +11,4 @@
 
 ## Beurten
 req1: R
+res1: no, valorant
