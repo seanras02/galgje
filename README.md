@@ -3,11 +3,12 @@
 ## Te raden woord
 
 |.|.|.|.|.|
-|S|-|-|-|E|
+|S|-|-|K|E|
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 req1: K
+res1: Ja
