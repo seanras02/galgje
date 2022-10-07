@@ -3,7 +3,7 @@
 ## Te raden woord
 
 |.|.|.|.|.|
-|S|-|-|K|E|
+|S|P|-|K|E|
 |1|2|3|4|5|
 
 ## Score
@@ -11,3 +11,4 @@
 
 ## Beurten
 req1: P
+res1: yea
